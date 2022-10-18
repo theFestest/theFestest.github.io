@@ -1,0 +1,4 @@
+baseURL = 'http://michaelbartholic.com/'
+languageCode = 'en-us'
+title = 'Michael Bartholic'
+theme = "hugo-resume"
