@@ -1,6 +1,5 @@
 title = 'Michael Bartholic'
 baseURL = 'https://www.michaelbartholic.com/'
-#baseURL = 'https://thefestest.github.io/'
 theme = "hugo-resume"
 languageCode = 'en-us'
 
@@ -11,7 +10,7 @@ enableGitInfo = false
 
 [params]
 address = "Pittsburgh, PA"
-#email = "email@domain.com"
+email = "me@michaelbartholic.com"
 favicon = "/favicon.ico"
 firstName = "Michael"
 lastName = "Bartholic"
