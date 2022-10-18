@@ -1,5 +1,6 @@
 title = 'Michael Bartholic'
-baseURL = 'https://michaelbartholic.com/'
+#baseURL = 'https://michaelbartholic.com/'
+baseURL = 'https://thefestest.github.io/'
 theme = "hugo-resume"
 languageCode = 'en-us'
 
